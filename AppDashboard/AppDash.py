@@ -8,7 +8,6 @@ from tkinter import filedialog, messagebox, ttk
 
 CONFIG_FILE = "dashboard_apps.json"
 
-
 class AppConfigDialog(tk.Toplevel):
     """Modal dialog for adding or editing an application entry."""
 
