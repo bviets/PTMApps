@@ -1,0 +1,26 @@
+[
+  {
+    "name": "MeetingPrep",
+    "script_path": "C:\\Users\\bviets\\Premier Trailer Mfg Dropbox\\Byron Viets\\Dev\\MeetingPrep\\MeetingPrepApp.py",
+    "args": "",
+    "working_dir": "C:/Users/bviets/Premier Trailer Mfg Dropbox/Byron Viets/Dev/MeetingPrep"
+  },
+  {
+    "name": "Weekly Training Roster",
+    "script_path": "C:\\Users\\bviets\\Premier Trailer Mfg Dropbox\\Byron Viets\\Dev\\WeeklyTrainingRoster\\weeklyTrainingRoster_v10.py",
+    "args": "",
+    "working_dir": "C:/Users/bviets/Premier Trailer Mfg Dropbox/Byron Viets/Dev/WeeklyTrainingRoster"
+  },
+  {
+    "name": "DocMaker",
+    "script_path": "C:\\Users\\bviets\\Premier Trailer Mfg Dropbox\\Byron Viets\\Dev\\DocMaker\\DocMaker.py",
+    "args": "",
+    "working_dir": "C:/Users/bviets/Premier Trailer Mfg Dropbox/Byron Viets/Dev/DocMaker"
+  },
+  {
+    "name": "DSL Creator",
+    "script_path": "C:\\Users\\bviets\\Premier Trailer Mfg Dropbox\\Byron Viets\\Dev\\DSLCreator\\DSLCreator.py",
+    "args": "",
+    "working_dir": "C:/Users/bviets/Premier Trailer Mfg Dropbox/Byron Viets/Dev/DSLCreator"
+  }
+]

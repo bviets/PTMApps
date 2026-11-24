@@ -1,0 +1,8 @@
+{
+    "pixel_threshold": 100,
+    "roi_x_offset": 6.0,
+    "roi_y_offset": -0.2,
+    "roi_width_mult": 5.0,
+    "roi_height_mult": 1.0,
+    "debug_mode": true
+}
